@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JagrutiDBModelStoreContainer" CdmEntityContainer="JagrutiDBEntities">
+    <EntitySetMapping Name="Movies">
+      <EntityTypeMapping TypeName="JagrutiDBModel.Movy">
+        <MappingFragment StoreEntitySet="Movies">
+          <ScalarProperty Name="Movie_ID" ColumnName="Movie_ID" />
+          <ScalarProperty Name="Movie_Name" ColumnName="Movie_Name" />
+          <ScalarProperty Name="Hero" ColumnName="Hero" />
+          <ScalarProperty Name="Heroin" ColumnName="Heroin" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="Movie_Ticket" ColumnName="Movie_Ticket" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,12 @@
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\Data_Context_Layers.dll.config
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\Data_Context_Layers.dll
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\Data_Context_Layers.pdb
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\EntityFramework.dll
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\EntityFramework.SqlServer.dll
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\EntityFramework.xml
+D:\.Net Task\Movie_Product\Data_Context_Layers\bin\Debug\EntityFramework.SqlServer.xml
+D:\.Net Task\Movie_Product\Data_Context_Layers\obj\Debug\Data_Context_Layers.csproj.AssemblyReference.cache
+D:\.Net Task\Movie_Product\Data_Context_Layers\obj\Debug\Data_Context_Layers.csproj.CoreCompileInputs.cache
+D:\.Net Task\Movie_Product\Data_Context_Layers\obj\Debug\Data_Con.FBD9BE49.Up2Date
+D:\.Net Task\Movie_Product\Data_Context_Layers\obj\Debug\Data_Context_Layers.dll
+D:\.Net Task\Movie_Product\Data_Context_Layers\obj\Debug\Data_Context_Layers.pdb
