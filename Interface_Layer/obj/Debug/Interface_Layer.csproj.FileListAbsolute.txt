@@ -1,0 +1,9 @@
+D:\.Net Task\Movie_Product\Interface_Layer\bin\Debug\Interface_Layer.dll
+D:\.Net Task\Movie_Product\Interface_Layer\bin\Debug\Interface_Layer.pdb
+D:\.Net Task\Movie_Product\Interface_Layer\bin\Debug\Model_Layer.dll
+D:\.Net Task\Movie_Product\Interface_Layer\bin\Debug\Model_Layer.pdb
+D:\.Net Task\Movie_Product\Interface_Layer\obj\Debug\Interface_Layer.csproj.AssemblyReference.cache
+D:\.Net Task\Movie_Product\Interface_Layer\obj\Debug\Interface_Layer.csproj.CoreCompileInputs.cache
+D:\.Net Task\Movie_Product\Interface_Layer\obj\Debug\Interfac.6E60BF26.Up2Date
+D:\.Net Task\Movie_Product\Interface_Layer\obj\Debug\Interface_Layer.dll
+D:\.Net Task\Movie_Product\Interface_Layer\obj\Debug\Interface_Layer.pdb
